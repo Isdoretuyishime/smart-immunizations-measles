@@ -1,0 +1,13 @@
+{
+  "url" : "http://MoH.Rwanda3/ig/smart-immunizations-measles/ImplementationGuide/Rwanda3.fhir.smart-immunizations-measles",
+  "name" : "SMART",
+  "package-id" : "Rwanda3.fhir.smart-immunizations-measles",
+  "ig-ver" : "0.1.0",
+  "date" : "Wed, 25 Oct, 2023 12:06:04 +0000",
+  "errs" : 103,
+  "warnings" : 64,
+  "hints" : 20,
+  "version" : "4.0.1",
+  "tool" : "5.0.0 (3)",
+  "maxMemory" : 3990240856
+}
